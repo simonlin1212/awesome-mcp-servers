@@ -15,15 +15,6 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ---
 
-## The Fork Maintainer Is Open to AI Roles in Shenzhen
-
-The maintainer of this fork is open to AI roles in Shenzhen, particularly in **AI-powered investment research products, Forward Deployed Engineering (FDE), and AI consulting or solutions** at Tencent, other leading technology companies, and financial institutions.
-
-He combines experience in financial institutions with hands-on AI product development, building open-source market data tools and multi-agent systems with **17K+ GitHub stars**.
-
-Contact: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
----
 
 * [What is MCP?](#what-is-mcp)
 * [Clients](#clients)
